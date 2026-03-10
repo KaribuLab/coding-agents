@@ -13,10 +13,11 @@ Repositorio para definir reglas operativas (`rules/`) y habilidades reutilizable
 - `rules/checkpoint.md`: checkpoints durante cambios lógicos.
 - `rules/ephemeral-worktrees.md`: uso de worktrees efímeros para cambios no triviales.
 
-### Skill actual
+### Skills actuales
 
 - `skills/ephemeral-worktree/SKILL.md`: workflow para implementar cambios en un worktree temporal.
 - `skills/ephemeral-worktree/references/worktree-workflow.md`: referencia detallada de pasos, comandos y limpieza.
+- `skills/go-mockery/SKILL.md`: generación automática de mocks con mockery.
 
 ## Cómo se relacionan `rules` y `skills`
 
