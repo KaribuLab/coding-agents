@@ -1,3 +1,4 @@
+// THIS IS ONLY A EXTRACT OF CODE. USE IT ONLY AS EXAMPLE
 package main_test
 
 import (
